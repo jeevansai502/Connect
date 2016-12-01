@@ -1,0 +1,18 @@
+.panel-default {
+	margin-top: 15%;
+	align-content: center;
+	width: 500px;
+	background-color: powderblue;
+}
+
+.box {
+	text-align: center;
+}
+
+body {
+	background-image: url('bird.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}

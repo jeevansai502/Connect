@@ -1,0 +1,14 @@
+
+.table > tbody >tr > td{
+vertical-align: middle;
+}
+
+.table th.cell-stat{
+width: 10em;
+text-align: center;
+}
+
+.tab{
+margin-left: 5%;
+margin-right: 5%;
+}

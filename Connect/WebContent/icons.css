@@ -1,0 +1,8 @@
+.g-control{
+	
+	background-image: url('./glyphicons/png/glyphicons-242-flash.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
