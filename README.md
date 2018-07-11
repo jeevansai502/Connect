@@ -4,11 +4,11 @@
  
  <h3>Technologies used:</h3>
  
- 1)project simulation using proteus
+ 1) automation simulation using proteus
  
- 2)eclipse ide
+ 2) eclipse ide
  
- 3)ethercard library
+ 3) ethercard library
  
  website technology:
  
