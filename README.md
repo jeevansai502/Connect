@@ -16,3 +16,8 @@
 
  Backend: java servlets and jsp
  
+
+Note:
+
+    1) You can contact me if any asistance is needed.
+    2) Improvements for the project are welcome.
